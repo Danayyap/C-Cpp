@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+	v arr[]={5,3,6,4,5,1,8,2,7};
+
+
